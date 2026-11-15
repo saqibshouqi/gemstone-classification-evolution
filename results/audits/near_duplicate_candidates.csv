@@ -1,0 +1,52 @@
+path_a,class_a,split_a,path_b,class_b,split_b,phash_distance,embedding_cosine,phash_flag,embedding_flag,high_confidence,requires_review
+Gem Stone Images Dataset/train/Beryl Golden/beryl golden_28.jpg,Beryl Golden,train,Gem Stone Images Dataset/train/Beryl Golden/beryl golden_38.jpg,Beryl Golden,train,0,1.00000000,true,true,true,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_21.jpg,Carnelian,train,Gem Stone Images Dataset/train/Carnelian/carnelian_24.jpg,Carnelian,train,0,1.00000000,true,true,true,true
+Gem Stone Images Dataset/train/Hessonite/hessonite_22.jpg,Hessonite,train,Gem Stone Images Dataset/train/Hessonite/hessonite_25.jpg,Hessonite,train,0,0.99999994,true,true,true,true
+Gem Stone Images Dataset/train/Alexandrite/alexandrite_20.jpg,Alexandrite,train,Gem Stone Images Dataset/train/Alexandrite/alexandrite_4.jpg,Alexandrite,train,0,0.99999988,true,true,true,true
+Gem Stone Images Dataset/train/Hessonite/hessonite_29.jpg,Hessonite,train,Gem Stone Images Dataset/train/Hessonite/hessonite_30.jpg,Hessonite,train,0,0.99999982,true,true,true,true
+Gem Stone Images Dataset/train/Chalcedony Blue/chalcedony blue_17.jpg,Chalcedony Blue,train,Gem Stone Images Dataset/train/Chalcedony Blue/chalcedony blue_19.jpg,Chalcedony Blue,train,0,0.99999976,true,true,true,true
+Gem Stone Images Dataset/train/Sphene/sphene_12.jpg,Sphene,train,Gem Stone Images Dataset/train/Sphene/sphene_19.jpg,Sphene,train,0,0.99999976,true,true,true,true
+Gem Stone Images Dataset/train/Sphene/sphene_12.jpg,Sphene,train,Gem Stone Images Dataset/train/Sphene/sphene_30.jpg,Sphene,train,0,0.99999976,true,true,true,true
+Gem Stone Images Dataset/train/Sphene/sphene_19.jpg,Sphene,train,Gem Stone Images Dataset/train/Sphene/sphene_30.jpg,Sphene,train,0,0.99999976,true,true,true,true
+Gem Stone Images Dataset/train/Fluorite/fluorite_9.jpg,Fluorite,train,Gem Stone Images Dataset/test/Fluorite/fluorite_3.jpg,Fluorite,test,0,0.99999970,true,true,true,true
+Gem Stone Images Dataset/train/Andradite/andradite_20.jpg,Andradite,train,Gem Stone Images Dataset/test/Andradite/andradite_18.jpg,Andradite,test,0,0.99999958,true,true,true,true
+Gem Stone Images Dataset/train/Hessonite/hessonite_31.jpg,Hessonite,train,Gem Stone Images Dataset/train/Hessonite/hessonite_7.jpg,Hessonite,train,0,0.99999946,true,true,true,true
+Gem Stone Images Dataset/train/Topaz/topaz_35.jpg,Topaz,train,Gem Stone Images Dataset/train/Topaz/topaz_37.jpg,Topaz,train,0,0.99904978,true,true,true,true
+Gem Stone Images Dataset/train/Ametrine/ametrine_22.jpg,Ametrine,train,Gem Stone Images Dataset/train/Ametrine/ametrine_28.jpg,Ametrine,train,0,0.99854481,true,true,true,true
+Gem Stone Images Dataset/train/Topaz/topaz_36.jpg,Topaz,train,Gem Stone Images Dataset/train/Topaz/topaz_37.jpg,Topaz,train,0,0.99818784,true,true,true,true
+Gem Stone Images Dataset/train/Topaz/topaz_35.jpg,Topaz,train,Gem Stone Images Dataset/train/Topaz/topaz_36.jpg,Topaz,train,0,0.99703133,true,true,true,true
+Gem Stone Images Dataset/train/Chalcedony/chalcedony_14.jpg,Chalcedony,train,Gem Stone Images Dataset/train/Chalcedony/chalcedony_32.jpg,Chalcedony,train,0,0.99585444,true,true,true,true
+Gem Stone Images Dataset/train/Sapphire Blue/sapphire blue_25.jpg,Sapphire Blue,train,Gem Stone Images Dataset/train/Sapphire Blue/sapphire blue_35.jpg,Sapphire Blue,train,0,0.99570543,true,true,true,true
+Gem Stone Images Dataset/train/Rhodonite/rhodonite_11.jpg,Rhodonite,train,Gem Stone Images Dataset/train/Rhodonite/rhodonite_30.jpg,Rhodonite,train,0,0.99570084,true,true,true,true
+Gem Stone Images Dataset/train/Topaz/topaz_8.jpg,Topaz,train,Gem Stone Images Dataset/train/Topaz/topaz_9.jpg,Topaz,train,0,0.99502802,true,true,true,true
+Gem Stone Images Dataset/train/Sapphire Pink/sapphire pink_17.jpg,Sapphire Pink,train,Gem Stone Images Dataset/train/Sapphire Pink/sapphire pink_8.jpg,Sapphire Pink,train,0,0.99331671,true,true,true,true
+Gem Stone Images Dataset/train/Sunstone/sunstone_24.jpg,Sunstone,train,Gem Stone Images Dataset/train/Sunstone/sunstone_7.jpg,Sunstone,train,0,0.99007535,true,true,true,true
+Gem Stone Images Dataset/train/Pyrope/pyrope_19.jpg,Pyrope,train,Gem Stone Images Dataset/train/Pyrope/pyrope_5.jpg,Pyrope,train,2,0.95297295,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_30.jpg,Aventurine Yellow,train,Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_32.jpg,Aventurine Yellow,train,2,0.92832220,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_30.jpg,Aventurine Yellow,train,Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_33.jpg,Aventurine Yellow,train,2,0.92581975,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Green/aventurine green_45.jpg,Aventurine Green,train,Gem Stone Images Dataset/train/Aventurine Green/aventurine green_46.jpg,Aventurine Green,train,2,0.90644193,true,false,false,true
+Gem Stone Images Dataset/train/Diamond/diamond_19.jpg,Diamond,train,Gem Stone Images Dataset/train/Diamond/diamond_23.jpg,Diamond,train,2,0.86609960,true,false,false,true
+Gem Stone Images Dataset/train/Almandine/almandine_23.jpg,Almandine,train,Gem Stone Images Dataset/train/Sapphire Yellow/sapphire yellow_25.jpg,Sapphire Yellow,train,2,0.54502892,true,false,false,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_21.jpg,Carnelian,train,Gem Stone Images Dataset/test/Carnelian/carnelian_28.jpg,Carnelian,test,4,0.97995579,true,false,false,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_24.jpg,Carnelian,train,Gem Stone Images Dataset/test/Carnelian/carnelian_28.jpg,Carnelian,test,4,0.97995579,true,false,false,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_23.jpg,Carnelian,train,Gem Stone Images Dataset/train/Carnelian/carnelian_27.jpg,Carnelian,train,4,0.97220457,true,false,false,true
+Gem Stone Images Dataset/train/Aquamarine/aquamarine_10.jpg,Aquamarine,train,Gem Stone Images Dataset/train/Aquamarine/aquamarine_12.jpg,Aquamarine,train,4,0.96895993,true,false,false,true
+Gem Stone Images Dataset/train/Hessonite/hessonite_22.jpg,Hessonite,train,Gem Stone Images Dataset/train/Hessonite/hessonite_26.jpg,Hessonite,train,4,0.96001005,true,false,false,true
+Gem Stone Images Dataset/train/Hessonite/hessonite_25.jpg,Hessonite,train,Gem Stone Images Dataset/train/Hessonite/hessonite_26.jpg,Hessonite,train,4,0.96001005,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_17.jpg,Aventurine Yellow,train,Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_21.jpg,Aventurine Yellow,train,4,0.93664974,true,false,false,true
+Gem Stone Images Dataset/train/Ruby/ruby_23.jpg,Ruby,train,Gem Stone Images Dataset/train/Ruby/ruby_29.jpg,Ruby,train,4,0.93128765,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_32.jpg,Aventurine Yellow,train,Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_33.jpg,Aventurine Yellow,train,4,0.92687142,true,false,false,true
+Gem Stone Images Dataset/train/Serpentine/serpentine_31.jpg,Serpentine,train,Gem Stone Images Dataset/train/Serpentine/serpentine_32.jpg,Serpentine,train,4,0.92429173,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_31.jpg,Aventurine Yellow,train,Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_32.jpg,Aventurine Yellow,train,4,0.92355573,true,false,false,true
+Gem Stone Images Dataset/train/Ruby/ruby_23.jpg,Ruby,train,Gem Stone Images Dataset/train/Ruby/ruby_27.jpg,Ruby,train,4,0.90154803,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_30.jpg,Aventurine Yellow,train,Gem Stone Images Dataset/train/Aventurine Yellow/aventurine yellow_31.jpg,Aventurine Yellow,train,4,0.87848783,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Green/aventurine green_42.jpg,Aventurine Green,train,Gem Stone Images Dataset/test/Aventurine Green/aventurine green_44.jpg,Aventurine Green,test,4,0.86935425,true,false,false,true
+Gem Stone Images Dataset/train/Serpentine/serpentine_22.jpg,Serpentine,train,Gem Stone Images Dataset/train/Serpentine/serpentine_26.jpg,Serpentine,train,4,0.82219297,true,false,false,true
+Gem Stone Images Dataset/train/Tourmaline/tourmaline_32.jpg,Tourmaline,train,Gem Stone Images Dataset/train/Tourmaline/tourmaline_34.jpg,Tourmaline,train,4,0.81321102,true,false,false,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_16.jpg,Carnelian,train,Gem Stone Images Dataset/train/Quartz Rutilated/quartz rutilated_20.jpg,Quartz Rutilated,train,4,0.77786136,true,false,false,true
+Gem Stone Images Dataset/train/Quartz Rutilated/quartz rutilated_15.jpg,Quartz Rutilated,train,Gem Stone Images Dataset/train/Rhodolite/rhodolite_35.jpg,Rhodolite,train,4,0.76384377,true,false,false,true
+Gem Stone Images Dataset/train/Chalcedony Blue/chalcedony blue_5.jpg,Chalcedony Blue,train,Gem Stone Images Dataset/train/Chrysoprase/chrysoprase_24.jpg,Chrysoprase,train,4,0.75159764,true,false,false,true
+Gem Stone Images Dataset/train/Beryl Golden/beryl golden_32.jpg,Beryl Golden,train,Gem Stone Images Dataset/train/Emerald/emerald_32.jpg,Emerald,train,4,0.68080777,true,false,false,true
+Gem Stone Images Dataset/train/Lapis Lazuli/lapis lazuli_34.jpg,Lapis Lazuli,train,Gem Stone Images Dataset/train/Ruby/ruby_13.jpg,Ruby,train,4,0.67756134,true,false,false,true
+Gem Stone Images Dataset/train/Almandine/almandine_23.jpg,Almandine,train,Gem Stone Images Dataset/train/Topaz/topaz_11.jpg,Topaz,train,4,0.63573438,true,false,false,true
+Gem Stone Images Dataset/train/Almandine/almandine_23.jpg,Almandine,train,Gem Stone Images Dataset/test/Sphene/sphene_28.jpg,Sphene,test,4,0.45425731,true,false,false,true

@@ -1,0 +1,29 @@
+# Local dataset and derived image files. The source dataset is not redistributed.
+Gem Stone Images Dataset/
+data/raw/
+data/processed/
+data/manifests/local_*
+
+# Model weights and checkpoints are kept on shared storage.
+models/**
+!models/README.md
+
+# Keep numerical outputs shareable; only the contact sheet contains source
+# image pixels and remains local.
+results/audits/*.jpg
+
+# Python tooling.
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Local editor and environment files.
+.env
+.idea/
+.vscode/

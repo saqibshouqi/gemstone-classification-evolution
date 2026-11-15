@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-11-15T03:17:56.890414+00:00",
+  "images": 2326,
+  "candidate_pairs": 51,
+  "train_test_candidate_pairs": 6,
+  "high_confidence_pairs": 22,
+  "duplicate_groups": 2306,
+  "duplicate_groups_with_multiple_images": 18,
+  "train_test_images_to_exclude": 2,
+  "phash_max_distance": 4,
+  "embedding_min_cosine": 0.99,
+  "folds": 5,
+  "fold_seed": 42,
+  "embedding_descriptor": "64x64 unsigned-gradient HOG plus RGB histogram; cosine similarity",
+  "high_confidence_requires_both": true,
+  "split_updated_with_dup_group": true,
+  "train_folds_grouped_after_audit": true,
+  "thresholds_reviewed_by_human": false
+}

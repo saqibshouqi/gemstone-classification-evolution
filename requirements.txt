@@ -1,0 +1,7 @@
+# Reproducible baseline environment for Python 3.12.
+numpy==2.0.2
+pandas==2.2.3
+Pillow==11.0.0
+PyYAML==6.0.2
+scikit-learn==1.7.1
+scipy==1.16.1

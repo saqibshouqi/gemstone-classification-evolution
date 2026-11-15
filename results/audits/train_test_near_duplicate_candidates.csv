@@ -1,0 +1,7 @@
+path_a,class_a,split_a,path_b,class_b,split_b,phash_distance,embedding_cosine,phash_flag,embedding_flag,high_confidence,requires_review
+Gem Stone Images Dataset/train/Fluorite/fluorite_9.jpg,Fluorite,train,Gem Stone Images Dataset/test/Fluorite/fluorite_3.jpg,Fluorite,test,0,0.99999970,true,true,true,true
+Gem Stone Images Dataset/train/Andradite/andradite_20.jpg,Andradite,train,Gem Stone Images Dataset/test/Andradite/andradite_18.jpg,Andradite,test,0,0.99999958,true,true,true,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_21.jpg,Carnelian,train,Gem Stone Images Dataset/test/Carnelian/carnelian_28.jpg,Carnelian,test,4,0.97995579,true,false,false,true
+Gem Stone Images Dataset/train/Carnelian/carnelian_24.jpg,Carnelian,train,Gem Stone Images Dataset/test/Carnelian/carnelian_28.jpg,Carnelian,test,4,0.97995579,true,false,false,true
+Gem Stone Images Dataset/train/Aventurine Green/aventurine green_42.jpg,Aventurine Green,train,Gem Stone Images Dataset/test/Aventurine Green/aventurine green_44.jpg,Aventurine Green,test,4,0.86935425,true,false,false,true
+Gem Stone Images Dataset/train/Almandine/almandine_23.jpg,Almandine,train,Gem Stone Images Dataset/test/Sphene/sphene_28.jpg,Sphene,test,4,0.45425731,true,false,false,true

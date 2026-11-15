@@ -1,0 +1,27 @@
+project:
+  seed: 42
+
+data:
+  root: "Gem Stone Images Dataset"
+  split_file: "splits/chow68.csv"
+  classes_file: "splits/classes.txt"
+  train_manifest: "data/manifests/chow68_train_selected.txt"
+  test_manifest: "data/manifests/chow68_test_selected.txt"
+  expected_classes: 68
+  expected_train_images: 2042
+  expected_test_images: 284
+  folds: 5
+
+evaluation:
+  bootstrap_resamples: 1000
+  ece_bins: 15
+  prediction_directory: "results/preds"
+  table_directory: "results/tables"
+  figure_directory: "results/figures"
+
+duplicate_audit:
+  # Initial cutoffs; inspect the generated contact sheet and update these before reporting.
+  phash_max_distance: 4
+  embedding_min_cosine: 0.99
+  high_confidence_requires_both: true
+  review_sample_size: 40

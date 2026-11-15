@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gemstone-trends"
+version = "0.1.0"
+description = "Shared data protocol and scoreboard for gemstone image classification research trends."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26,<3",
+  "pandas>=2.1,<3",
+  "Pillow>=10,<12",
+  "PyYAML>=6.0,<7",
+  "scikit-learn>=1.4,<2",
+  "scipy>=1.11,<2",
+]
+
+[project.optional-dependencies]
+vision = [
+  "imagehash==4.3.2",
+  "matplotlib==3.9.2",
+  "opencv-python==4.10.0.84",
+  "scikit-image==0.24.0",
+]
+gpu = [
+  "torch==2.6.0",
+  "torchvision==0.21.0",
+  "grad-cam==1.4.8",
+]
+demo = ["gradio==5.7.1"]
+
+[project.scripts]
+gemstones-build-split = "gemstone_trends.data.splits:main"
+gemstones-audit-duplicates = "gemstone_trends.data.duplicates:main"
+gemstones-check-preds = "gemstone_trends.evaluation.io:main"
+gemstones-evaluate = "gemstone_trends.evaluation.report:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+gemstone_trends = ["py.typed"]

@@ -1,0 +1,3 @@
+path,dup_group,train_paths
+Gem Stone Images Dataset/test/Andradite/andradite_18.jpg,dup-00025,Gem Stone Images Dataset/train/Andradite/andradite_20.jpg
+Gem Stone Images Dataset/test/Fluorite/fluorite_3.jpg,dup-00120,Gem Stone Images Dataset/train/Fluorite/fluorite_9.jpg
