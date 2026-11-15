@@ -38,7 +38,7 @@ python -m pip install -r requirements.txt
 python -m pip install -e .
 ```
 
-## Data and scoreboard (Person 1)
+## Data and scoreboard
 
 The raw Kaggle download has 87 classes. The canonical Chow benchmark uses 68
 classes and the paper's selected 2,042/284 train/test files; filtering by class
