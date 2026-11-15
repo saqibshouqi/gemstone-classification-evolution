@@ -1,0 +1,17 @@
+{
+  "best_cv_mean_log_loss": 10.264814816853285,
+  "best_params": {
+    "classifier__shrinkage": 0.5
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/published/lda_s0_grid.csv",
+  "mask_selection": "class_label_conditioned_oracle",
+  "mode": "published",
+  "model": "lda",
+  "model_file": "models/g2/published/lda_s0.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_lda_published_s0.csv",
+  "seed": 0
+}

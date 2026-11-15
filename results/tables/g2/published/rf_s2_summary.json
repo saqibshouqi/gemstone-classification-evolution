@@ -1,0 +1,19 @@
+{
+  "best_cv_mean_log_loss": 1.7766006326903194,
+  "best_params": {
+    "classifier__max_depth": 9,
+    "classifier__min_samples_leaf": 3,
+    "classifier__n_estimators": 100
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/published/rf_s2_grid.csv",
+  "mask_selection": "class_label_conditioned_oracle",
+  "mode": "published",
+  "model": "rf",
+  "model_file": "models/g2/published/rf_s2.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_rf_published_s2.csv",
+  "seed": 2
+}

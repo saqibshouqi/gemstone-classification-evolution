@@ -1,0 +1,17 @@
+{
+  "best_cv_mean_log_loss": 5.614896824387944,
+  "best_params": {
+    "classifier__n_neighbors": 9
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/published/knn_s1_grid.csv",
+  "mask_selection": "class_label_conditioned_oracle",
+  "mode": "published",
+  "model": "knn",
+  "model_file": "models/g2/published/knn_s1.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_knn_published_s1.csv",
+  "seed": 1
+}

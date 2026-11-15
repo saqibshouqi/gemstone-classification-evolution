@@ -1,0 +1,17 @@
+{
+  "best_cv_mean_log_loss": 1.648938067893294,
+  "best_params": {
+    "classifier__C": 10
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/labelfree/lr_s4_grid.csv",
+  "mask_selection": "labelfree",
+  "mode": "labelfree",
+  "model": "lr",
+  "model_file": "models/g2/labelfree/lr_s4.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_lr_labelfree_s4.csv",
+  "seed": 4
+}

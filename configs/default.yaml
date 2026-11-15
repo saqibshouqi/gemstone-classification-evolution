@@ -25,3 +25,15 @@ duplicate_audit:
   embedding_min_cosine: 0.99
   high_confidence_requires_both: true
   review_sample_size: 40
+
+g2:
+  feature_name: "rgb8_lbp8_r1"
+  feature_length: 768
+  feature_views: ["rgb8", "lbp8_r1", "rgb8_lbp8_r1"]
+  segmentation_comparison_modes: ["published", "labelfree"]
+  smote_neighbors: 4
+  cv_folds: 5
+  scoring: "neg_log_loss"
+  seeds: [0, 1, 2, 3, 4]
+  default_model: "rf"
+  default_mode: "labelfree"
