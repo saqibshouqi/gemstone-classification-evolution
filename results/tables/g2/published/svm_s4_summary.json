@@ -1,0 +1,21 @@
+{
+  "best_cv_mean_log_loss": 1.5737575456237045,
+  "best_params": {
+    "classifier__estimator__C": 100,
+    "classifier__estimator__gamma": 0.1,
+    "classifier__estimator__kernel": "rbf"
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/published/svm_s0_grid.csv",
+  "mask_selection": "class_label_conditioned_oracle",
+  "mode": "published",
+  "model": "svm",
+  "model_file": "models/g2/published/svm_s4.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_svm_published_s4.csv",
+  "seed": 4,
+  "selection_method": "fixed_params_from_seed_grid",
+  "tuning_source_seed": 0
+}

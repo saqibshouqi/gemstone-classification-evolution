@@ -1,0 +1,4 @@
+rank,mean_log_loss,std_log_loss,mean_fit_time_seconds,params
+1,10.201839701548822,0.435663198421056,7.7306335926055905,"{""classifier__shrinkage"": 0.5}"
+2,15.093145482604944,0.6905992882404711,6.637418508529663,"{""classifier__shrinkage"": 1.0}"
+3,35.4257672814639,0.11183662440942707,8.19614405632019,"{""classifier__shrinkage"": 0.0}"

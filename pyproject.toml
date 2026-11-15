@@ -18,6 +18,9 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+g2 = [
+  "imbalanced-learn==0.14.2",
+]
 vision = [
   "imagehash==4.3.2",
   "matplotlib==3.9.2",
@@ -36,6 +39,8 @@ gemstones-build-split = "gemstone_trends.data.splits:main"
 gemstones-audit-duplicates = "gemstone_trends.data.duplicates:main"
 gemstones-check-preds = "gemstone_trends.evaluation.io:main"
 gemstones-evaluate = "gemstone_trends.evaluation.report:main"
+gemstones-g2-segment = "g2.segmentation:main"
+gemstones-g2-train = "g2.training:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

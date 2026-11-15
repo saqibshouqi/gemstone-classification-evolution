@@ -107,7 +107,7 @@ def _generation_chart(path: Path, mode: str, arm_rows: list[dict[str, object]]) 
     left, top, plot_width, plot_height = 70, 35, 480, 320
     grouped: dict[str, list[float]] = defaultdict(list)
     for row in arm_rows:
-        grouped[str(row["arm"])].append(float(row["top1_mean"]))
+        grouped[str(row["arm"])].append(float(row["top1_accuracy_mean"]))
     present = [arm for arm in ("g1", "g2", "g3") if grouped.get(arm)]
     chunks = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',

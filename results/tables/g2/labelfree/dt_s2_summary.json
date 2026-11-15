@@ -1,0 +1,19 @@
+{
+  "best_cv_mean_log_loss": 8.535443026745266,
+  "best_params": {
+    "classifier__max_depth": 10,
+    "classifier__max_features": 5,
+    "classifier__min_samples_leaf": 9
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/labelfree/dt_s2_grid.csv",
+  "mask_selection": "labelfree",
+  "mode": "labelfree",
+  "model": "dt",
+  "model_file": "models/g2/labelfree/dt_s2.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_dt_labelfree_s2.csv",
+  "seed": 2
+}

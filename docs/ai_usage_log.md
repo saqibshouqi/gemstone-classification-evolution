@@ -22,3 +22,14 @@ content was used.
   project scaffold and Person 1's split, audit, validation, and evaluation code.
   The student/team should review, run, and understand all generated work and
   update this record with any later AI assistance.
+
+## Entry - 15 November 2026 (G2 anchor)
+
+- Tool: OpenAI Codex in ChatGPT Work mode.
+- User prompt: "Now I want you to implement the G2 anchor in an excellent manner."
+- Use: implemented the 2022 Otsu mask pipelines, RGB histogram plus LBP features, fold-contained SMOTE and classifier grids, held-out prediction output, model adapter, and G2 documentation. The published per-class mask mode is documented as diagnostic-only because it depends on the true class label.
+
+## Entry - 15 November 2026 (G2 run and scoreboard verification)
+
+- User prompt: "Please do that also."
+- Use: installed the pinned G2 dependency, ran all five RF seeds, added and ran focused G2 unit tests, corrected the shared scoreboard chart column lookup found during evaluation, and generated the G2 scoreboard.

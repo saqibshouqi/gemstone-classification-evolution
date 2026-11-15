@@ -1,0 +1,17 @@
+{
+  "best_cv_mean_log_loss": 13.09981768938825,
+  "best_params": {
+    "classifier__var_smoothing": 1e-09
+  },
+  "feature_length": 768,
+  "feature_name": "rgb8_lbp8_r1",
+  "grid_file": "results/tables/g2/published/nb_s0_grid.csv",
+  "mask_selection": "class_label_conditioned_oracle",
+  "mode": "published",
+  "model": "nb",
+  "model_file": "models/g2/published/nb_s0.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_nb_published_s0.csv",
+  "seed": 0
+}

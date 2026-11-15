@@ -1,0 +1,21 @@
+{
+  "best_cv_mean_log_loss": 1.801571518369651,
+  "best_params": {
+    "classifier__max_depth": 9,
+    "classifier__min_samples_leaf": 3,
+    "classifier__n_estimators": 100
+  },
+  "feature_length": 512,
+  "feature_name": "rgb8",
+  "grid_file": "results/tables/g2/labelfree/rf_rgb8_s4_grid.csv",
+  "mask_selection": "labelfree",
+  "mode": "labelfree",
+  "model": "rf",
+  "model_file": "models/g2/labelfree/rf_rgb8_s4.joblib",
+  "n_test": 284,
+  "n_train": 2042,
+  "prediction_file": "results/preds/g2_rf_rgb8_labelfree_s4.csv",
+  "seed": 4,
+  "selection_method": "five_fold_grid_search",
+  "tuning_source_seed": 4
+}
