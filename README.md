@@ -1,4 +1,4 @@
-# Gemstone image-classification research trends
+# Gemstone Classification Evolution
 
 Reproducible project comparing gemstone image classification
 approaches from 2015, 2022, and 2025. The common 2022 benchmark, data split,
