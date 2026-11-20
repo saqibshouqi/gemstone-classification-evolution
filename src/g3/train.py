@@ -86,7 +86,7 @@ def get_transforms():
 
 
 def make_optimizer(model_name, stage, head_params, backbone_params=None, weight_decay=1e-4):
-    if model_name in ["densenet169", "convnext_small"]:
+    if model_name in ["densenet169", "convnext_small", "convnext_small_cbam"]:
         if stage == "A":
             return optim.SGD(head_params, lr=1e-2, momentum=0.9, weight_decay=weight_decay)
         return optim.SGD(
@@ -244,7 +244,7 @@ def run_training(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", required=True, choices=["densenet169", "convnext_small", "mobilenetv2"])
+    parser.add_argument("--model", required=True, choices=["densenet169", "convnext_small", "convnext_small_cbam", "mobilenetv2"])
     parser.add_argument("--img-dir", required=True)
     parser.add_argument("--csv-path", default="splits/chow68.csv")
     parser.add_argument("--classes-txt", default="splits/classes.txt")
