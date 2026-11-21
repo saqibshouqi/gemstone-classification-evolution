@@ -1,0 +1,41 @@
+model,seed,group,path,true,pred,conf
+densenet169,0,correct,Gem Stone Images Dataset/test/Zoisite/zoisite_3.jpg,Zoisite,Zoisite,0.9999
+densenet169,0,correct,Gem Stone Images Dataset/test/Malachite/malachite_25.jpg,Malachite,Malachite,0.9997
+densenet169,0,correct,Gem Stone Images Dataset/test/Diamond/diamond_9.jpg,Diamond,Diamond,0.9996
+densenet169,0,correct,Gem Stone Images Dataset/test/Serpentine/serpentine_18.jpg,Serpentine,Serpentine,0.9996
+densenet169,0,correct,Gem Stone Images Dataset/test/Topaz/topaz_18.jpg,Topaz,Topaz,0.9995
+densenet169,0,wrong,Gem Stone Images Dataset/test/Citrine/citrine_42.jpg,Citrine,Beryl Golden,0.9687
+densenet169,0,wrong,Gem Stone Images Dataset/test/Chrysoberyl/chrysoberyl_9.jpg,Chrysoberyl,Quartz Lemon,0.9675
+densenet169,0,wrong,Gem Stone Images Dataset/test/Beryl Golden/beryl golden_3.jpg,Beryl Golden,Chrysoberyl,0.9635
+densenet169,0,wrong,Gem Stone Images Dataset/test/Bixbite/bixbite_9.jpg,Bixbite,Ruby,0.9566
+densenet169,0,wrong,Gem Stone Images Dataset/test/Jasper/jasper_3.jpg,Jasper,Chalcedony,0.9287
+convnext_small,0,correct,Gem Stone Images Dataset/test/Quartz Beer/quartz beer_7.jpg,Quartz Beer,Quartz Beer,0.9998
+convnext_small,0,correct,Gem Stone Images Dataset/test/Tigers Eye/tigers eye_4.jpg,Tigers Eye,Tigers Eye,0.9998
+convnext_small,0,correct,Gem Stone Images Dataset/test/Rhodonite/rhodonite_18.jpg,Rhodonite,Rhodonite,0.9995
+convnext_small,0,correct,Gem Stone Images Dataset/test/Serpentine/serpentine_3.jpg,Serpentine,Serpentine,0.9995
+convnext_small,0,correct,Gem Stone Images Dataset/test/Fluorite/fluorite_3.jpg,Fluorite,Fluorite,0.999
+convnext_small,0,wrong,Gem Stone Images Dataset/test/Jasper/jasper_3.jpg,Jasper,Chalcedony,0.9815
+convnext_small,0,wrong,Gem Stone Images Dataset/test/Almandine/almandine_28.jpg,Almandine,Pyrope,0.9426
+convnext_small,0,wrong,Gem Stone Images Dataset/test/Lapis Lazuli/lapis lazuli_18.jpg,Lapis Lazuli,Turquoise,0.9185
+convnext_small,0,wrong,Gem Stone Images Dataset/test/Tourmaline/tourmaline_6.jpg,Tourmaline,Bixbite,0.8922
+convnext_small,0,wrong,Gem Stone Images Dataset/test/Peridot/peridot_4.jpg,Peridot,Andradite,0.8648
+convnext_small_cbam,0,correct,Gem Stone Images Dataset/test/Quartz Beer/quartz beer_7.jpg,Quartz Beer,Quartz Beer,0.9997
+convnext_small_cbam,0,correct,Gem Stone Images Dataset/test/Tigers Eye/tigers eye_4.jpg,Tigers Eye,Tigers Eye,0.9996
+convnext_small_cbam,0,correct,Gem Stone Images Dataset/test/Rhodonite/rhodonite_18.jpg,Rhodonite,Rhodonite,0.9995
+convnext_small_cbam,0,correct,Gem Stone Images Dataset/test/Sunstone/sunstone_18.jpg,Sunstone,Sunstone,0.9991
+convnext_small_cbam,0,correct,Gem Stone Images Dataset/test/Tsavorite/tsavorite_9.jpg,Tsavorite,Tsavorite,0.999
+convnext_small_cbam,0,wrong,Gem Stone Images Dataset/test/Jasper/jasper_3.jpg,Jasper,Chalcedony,0.9877
+convnext_small_cbam,0,wrong,Gem Stone Images Dataset/test/Lapis Lazuli/lapis lazuli_18.jpg,Lapis Lazuli,Turquoise,0.9528
+convnext_small_cbam,0,wrong,Gem Stone Images Dataset/test/Tourmaline/tourmaline_6.jpg,Tourmaline,Bixbite,0.9382
+convnext_small_cbam,0,wrong,Gem Stone Images Dataset/test/Almandine/almandine_28.jpg,Almandine,Pyrope,0.9344
+convnext_small_cbam,0,wrong,Gem Stone Images Dataset/test/Amethyst/amethyst_3.jpg,Amethyst,Sapphire Pink,0.8902
+mobilenetv2,0,correct,Gem Stone Images Dataset/test/Tigers Eye/tigers eye_3.jpg,Tigers Eye,Tigers Eye,0.9994
+mobilenetv2,0,correct,Gem Stone Images Dataset/test/Fluorite/fluorite_3.jpg,Fluorite,Fluorite,0.9989
+mobilenetv2,0,correct,Gem Stone Images Dataset/test/Lapis Lazuli/lapis lazuli_3.jpg,Lapis Lazuli,Lapis Lazuli,0.9987
+mobilenetv2,0,correct,Gem Stone Images Dataset/test/Kunzite/kunzite_28.jpg,Kunzite,Kunzite,0.9986
+mobilenetv2,0,correct,Gem Stone Images Dataset/test/Malachite/malachite_9.jpg,Malachite,Malachite,0.9986
+mobilenetv2,0,wrong,Gem Stone Images Dataset/test/Chrysoberyl/chrysoberyl_9.jpg,Chrysoberyl,Quartz Lemon,0.9666
+mobilenetv2,0,wrong,Gem Stone Images Dataset/test/Bixbite/bixbite_9.jpg,Bixbite,Ruby,0.952
+mobilenetv2,0,wrong,Gem Stone Images Dataset/test/Jasper/jasper_3.jpg,Jasper,Chalcedony,0.9306
+mobilenetv2,0,wrong,Gem Stone Images Dataset/test/Almandine/almandine_3.jpg,Almandine,Pyrope,0.8889
+mobilenetv2,0,wrong,Gem Stone Images Dataset/test/Sapphire Pink/sapphire pink_2.jpg,Sapphire Pink,Sapphire Purple,0.8595
