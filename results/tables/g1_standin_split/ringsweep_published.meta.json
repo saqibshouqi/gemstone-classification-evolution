@@ -1,0 +1,46 @@
+{
+  "command": "ringsweep",
+  "args": {
+    "command": "ringsweep",
+    "data_root": "data/chow68",
+    "splits": "splits/chow68.csv",
+    "classes": "splits/classes.txt",
+    "mask_root": "masks",
+    "cache": "cache/g1",
+    "results": "results",
+    "models_dir": "models",
+    "mode": "published",
+    "target_area": 15000,
+    "circular_hue": false,
+    "subset_frac": 0.5,
+    "class_weight": null,
+    "ring_size": 400,
+    "seed": 0,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "models": [
+      "dt-allpix",
+      "pdt-allpix",
+      "dt-rings400",
+      "random16-rings400",
+      "hh16-rings400"
+    ],
+    "oof": false,
+    "mask_threshold": 10,
+    "n_jobs": -1
+  },
+  "python": "3.12.9",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1",
+  "scipy": "1.18.1",
+  "opencv": "5.1.0",
+  "git_commit": null,
+  "time": "2026-11-20 18:08:55"
+}

@@ -27,3 +27,12 @@ dist/
 .env
 .idea/
 .vscode/
+
+.venv/
+__pycache__/
+*.pyc
+masks/
+cache/
+models/
+data_synth/
+*.zip
