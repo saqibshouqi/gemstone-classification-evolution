@@ -3,6 +3,7 @@ Gem Stone Images Dataset/
 data/raw/
 data/processed/
 masks/
+data/images
 
 # Model weights and checkpoints are kept on shared storage.
 models/**
